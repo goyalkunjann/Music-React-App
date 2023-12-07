@@ -35,16 +35,4 @@ User sessions are managed securely, and authentication is handled using the prov
 
 For API calls related to login and OTP verification, use the provided Postman collection and environment.In the test API environment, use "5678" as the OTP for verification.
 
-## Screenshots
 
-### Login Page
-![Login Page](https://github.com/goyalkunjann/Music-React-App/blob/master/LoginPage.png)
-
-### Verify OTP
-![Verify OTP](https://github.com/goyalkunjann/Music-React-App/blob/master/VerifyOTP.png)
-
-### Songs Listing
-![Songs Listing](https://github.com/goyalkunjann/Music-React-App/blob/master/Songs%20Listing.png)
-
-### Player
-![Player](https://github.com/goyalkunjann/Music-React-App/blob/master/Player.png)
