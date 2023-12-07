@@ -38,13 +38,13 @@ For API calls related to login and OTP verification, use the provided Postman co
 ## Screenshots
 
 ### Login Page
-![Login Page](https://github.com/your-goyalkunjann/your-react-music-app-repo/raw/main/screenshots/login.png)
+![Login Page](https://github.com/goyalkunjann/Music-React-App/raw/main/screenshots/LoginPage.png)
 
 ### Verify OTP
-![Verify OTP](https://github.com/your-goyalkunjann/your-react-music-app-repo/raw/main/screenshots/verify-otp.png)
+![Verify OTP](https://github.com/goyalkunjann/Music-React-App/raw/main/screenshots/VerifyOTP.png)
 
 ### Songs Listing
-![Songs Listing](https://github.com/your-goyalkunjann/your-react-music-app-repo/raw/main/screenshots/songs-listing.png)
+![Songs Listing](https://github.com/goyalkunjann/Music-React-App/raw/main/screenshots/Songs-Listing.png)
 
 ### Player
-![Player](https://github.com/your-goyalkunjann/your-react-music-app-repo/raw/main/screenshots/player.png)
+![Player](https://github.com/goyalkunjann/Music-React-App/raw/main/screenshots/Player.png)
